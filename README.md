@@ -50,9 +50,16 @@ python3 manage.py runserver
 
 Для создания суперпользователя выполните команду:
 
+```
 (venv) $ python manage.py createsuperuser
+```
 Username (leave blank to use 'user'): # Придумайте логин (например, admin)
+```
 Email address: # укажите почту
+```
 Password: # придумайте пароль
+```
 Password (again): # повторите пароль
+```
 Superuser created successfully. 
+```
