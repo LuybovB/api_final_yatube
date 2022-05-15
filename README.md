@@ -62,4 +62,3 @@ Password: # придумайте пароль
 Password (again): # повторите пароль
 ```
 Superuser created successfully. 
-```
